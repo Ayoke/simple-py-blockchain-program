@@ -1,0 +1,1 @@
+This repository holds a simple blockchain command-line interface program without using any 3rd party library.
